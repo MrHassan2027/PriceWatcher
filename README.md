@@ -7,9 +7,9 @@ Monitors product pages (Amazon, Noon, or any custom CSS selector) using `aiohttp
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/PriceWatcher
+git clone https://github.com/MrHassan2027/PriceWatcher
 cd PriceWatcher
-pip install -r requirements.txt
+pip install -e .
 cp config.example.yml config.yml   # add your URLs + thresholds
 python -m pricewatcher
 ```
