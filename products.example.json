@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Example Product",
+    "url": "https://example.com/product",
+    "selector": ".price",
+    "target_price": 29.99,
+    "currency": "USD"
+  }
+]
